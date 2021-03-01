@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<SetList>
+    <heading>Tonight's Set List</heading>
+    <Record>
+      <Song>House of the Rising Sun</Song>
+      <Artist>The Animals</Artist>
+      <Genre>Rock</Genre>
+      <ReleaseYear>1983</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>September</Song>
+      <Artist>Earth, Wind &amp; Fire</Artist>
+      <Genre>R&amp;B</Genre>
+      <ReleaseYear>1978</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>I Want You Back</Song>
+      <Artist>The Jackson 5</Artist>
+      <Genre>Pop</Genre>
+      <ReleaseYear>1969</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Come and Get Your Love</Song>
+      <Artist>Redbone</Artist>
+      <Genre>R&amp;B</Genre>
+      <ReleaseYear>1974</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Lean on Me</Song>
+      <Artist>Bill Withers</Artist>
+      <Genre>Soul</Genre>
+      <ReleaseYear>1972</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Mr. Blue Sky</Song>
+      <Artist>Electric Light Orchestra</Artist>
+      <Genre>Pop</Genre>
+      <ReleaseYear>1978</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Ain't No Sunshine</Song>
+      <Artist>Bill Withers</Artist>
+      <Genre>Soul</Genre>
+      <ReleaseYear>1971</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Grandma's Hands</Song>
+      <Artist>Bill Withers</Artist>
+      <Genre>Soul</Genre>
+      <ReleaseYear>1971</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Forget You</Song>
+      <Artist>CeeLo Green</Artist>
+      <Genre>Soul</Genre>
+      <ReleaseYear>2010</ReleaseYear>
+    </Record>
+    <Record>
+      <Song>Let's Get it Started</Song>
+      <Artist>Black Eyed Peas</Artist>
+      <Genre>Hip Hop</Genre>
+      <ReleaseYear>2003</ReleaseYear>
+    </Record>
+</SetList>

@@ -1,0 +1,33 @@
+SetList {
+  background-color: #dbe2ef;
+  width: 100%;
+}
+
+heading {
+  /* text */
+  font-weight: bold;
+  font-size: 45px;
+  color: #355c7d;
+
+  /* background */
+  background-color: #f67280;
+
+  /* general display */
+  text-align: center;
+}
+
+Song {
+  font-weight: bold;
+  font-size: 25px;
+
+  margin-top: 1%;
+
+  text-decoration: underline solid #6c5b7b;
+}
+
+heading, Song, Artist, Genre, ReleaseYear {
+  display: block;
+  padding-left: 1%;
+
+  line-height: 1.5;
+}
